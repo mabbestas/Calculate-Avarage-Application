@@ -1,7 +1,7 @@
 # Calculate-Avarage-Application
-Patika.dev Calculate Avarage Application
 
 Ortalama Hesaplama
+
 Kulanıcıdan alınan derinliğe göre fibonacci serisindeki rakamların ortalamasını alıp ekrana yazdıran uygulamayı yazınız.
 
 Dikkat Edilmesi Gereken Noktalar :
